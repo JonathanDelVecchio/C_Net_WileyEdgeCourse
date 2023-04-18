@@ -1,0 +1,15 @@
+/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/bin/Debug/net7.0/HelloWorldSample
+/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/bin/Debug/net7.0/HelloWorldSample.deps.json
+/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/bin/Debug/net7.0/HelloWorldSample.runtimeconfig.json
+/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/bin/Debug/net7.0/HelloWorldSample.dll
+/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/bin/Debug/net7.0/HelloWorldSample.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/obj/Debug/net7.0/HelloWorldSample.csproj.AssemblyReference.cache
+/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/obj/Debug/net7.0/HelloWorldSample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/obj/Debug/net7.0/HelloWorldSample.AssemblyInfoInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/obj/Debug/net7.0/HelloWorldSample.AssemblyInfo.cs
+/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/obj/Debug/net7.0/HelloWorldSample.csproj.CoreCompileInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/obj/Debug/net7.0/HelloWorldSample.dll
+/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/obj/Debug/net7.0/refint/HelloWorldSample.dll
+/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/obj/Debug/net7.0/HelloWorldSample.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/obj/Debug/net7.0/HelloWorldSample.genruntimeconfig.cache
+/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/obj/Debug/net7.0/ref/HelloWorldSample.dll
