@@ -1,0 +1,15 @@
+/Users/Idata/Desktop/WileyEdgeCNet/ProjectGutenberg/ProjectGutenberg/bin/Debug/net7.0/ProjectGutenberg
+/Users/Idata/Desktop/WileyEdgeCNet/ProjectGutenberg/ProjectGutenberg/bin/Debug/net7.0/ProjectGutenberg.deps.json
+/Users/Idata/Desktop/WileyEdgeCNet/ProjectGutenberg/ProjectGutenberg/bin/Debug/net7.0/ProjectGutenberg.runtimeconfig.json
+/Users/Idata/Desktop/WileyEdgeCNet/ProjectGutenberg/ProjectGutenberg/bin/Debug/net7.0/ProjectGutenberg.dll
+/Users/Idata/Desktop/WileyEdgeCNet/ProjectGutenberg/ProjectGutenberg/bin/Debug/net7.0/ProjectGutenberg.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/ProjectGutenberg/ProjectGutenberg/obj/Debug/net7.0/ProjectGutenberg.csproj.AssemblyReference.cache
+/Users/Idata/Desktop/WileyEdgeCNet/ProjectGutenberg/ProjectGutenberg/obj/Debug/net7.0/ProjectGutenberg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Idata/Desktop/WileyEdgeCNet/ProjectGutenberg/ProjectGutenberg/obj/Debug/net7.0/ProjectGutenberg.AssemblyInfoInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/ProjectGutenberg/ProjectGutenberg/obj/Debug/net7.0/ProjectGutenberg.AssemblyInfo.cs
+/Users/Idata/Desktop/WileyEdgeCNet/ProjectGutenberg/ProjectGutenberg/obj/Debug/net7.0/ProjectGutenberg.csproj.CoreCompileInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/ProjectGutenberg/ProjectGutenberg/obj/Debug/net7.0/ProjectGutenberg.dll
+/Users/Idata/Desktop/WileyEdgeCNet/ProjectGutenberg/ProjectGutenberg/obj/Debug/net7.0/refint/ProjectGutenberg.dll
+/Users/Idata/Desktop/WileyEdgeCNet/ProjectGutenberg/ProjectGutenberg/obj/Debug/net7.0/ProjectGutenberg.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/ProjectGutenberg/ProjectGutenberg/obj/Debug/net7.0/ProjectGutenberg.genruntimeconfig.cache
+/Users/Idata/Desktop/WileyEdgeCNet/ProjectGutenberg/ProjectGutenberg/obj/Debug/net7.0/ref/ProjectGutenberg.dll

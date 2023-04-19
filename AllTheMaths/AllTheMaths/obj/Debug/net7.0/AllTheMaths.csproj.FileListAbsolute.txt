@@ -1,0 +1,15 @@
+/Users/Idata/Desktop/WileyEdgeCNet/AllTheMaths/AllTheMaths/bin/Debug/net7.0/AllTheMaths
+/Users/Idata/Desktop/WileyEdgeCNet/AllTheMaths/AllTheMaths/bin/Debug/net7.0/AllTheMaths.deps.json
+/Users/Idata/Desktop/WileyEdgeCNet/AllTheMaths/AllTheMaths/bin/Debug/net7.0/AllTheMaths.runtimeconfig.json
+/Users/Idata/Desktop/WileyEdgeCNet/AllTheMaths/AllTheMaths/bin/Debug/net7.0/AllTheMaths.dll
+/Users/Idata/Desktop/WileyEdgeCNet/AllTheMaths/AllTheMaths/bin/Debug/net7.0/AllTheMaths.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/AllTheMaths/AllTheMaths/obj/Debug/net7.0/AllTheMaths.csproj.AssemblyReference.cache
+/Users/Idata/Desktop/WileyEdgeCNet/AllTheMaths/AllTheMaths/obj/Debug/net7.0/AllTheMaths.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Idata/Desktop/WileyEdgeCNet/AllTheMaths/AllTheMaths/obj/Debug/net7.0/AllTheMaths.AssemblyInfoInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/AllTheMaths/AllTheMaths/obj/Debug/net7.0/AllTheMaths.AssemblyInfo.cs
+/Users/Idata/Desktop/WileyEdgeCNet/AllTheMaths/AllTheMaths/obj/Debug/net7.0/AllTheMaths.csproj.CoreCompileInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/AllTheMaths/AllTheMaths/obj/Debug/net7.0/AllTheMaths.dll
+/Users/Idata/Desktop/WileyEdgeCNet/AllTheMaths/AllTheMaths/obj/Debug/net7.0/refint/AllTheMaths.dll
+/Users/Idata/Desktop/WileyEdgeCNet/AllTheMaths/AllTheMaths/obj/Debug/net7.0/AllTheMaths.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/AllTheMaths/AllTheMaths/obj/Debug/net7.0/AllTheMaths.genruntimeconfig.cache
+/Users/Idata/Desktop/WileyEdgeCNet/AllTheMaths/AllTheMaths/obj/Debug/net7.0/ref/AllTheMaths.dll

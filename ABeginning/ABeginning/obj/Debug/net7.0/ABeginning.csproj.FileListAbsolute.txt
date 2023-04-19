@@ -1,0 +1,15 @@
+/Users/Idata/Desktop/WileyEdgeCNet/ABeginning/ABeginning/bin/Debug/net7.0/ABeginning
+/Users/Idata/Desktop/WileyEdgeCNet/ABeginning/ABeginning/bin/Debug/net7.0/ABeginning.deps.json
+/Users/Idata/Desktop/WileyEdgeCNet/ABeginning/ABeginning/bin/Debug/net7.0/ABeginning.runtimeconfig.json
+/Users/Idata/Desktop/WileyEdgeCNet/ABeginning/ABeginning/bin/Debug/net7.0/ABeginning.dll
+/Users/Idata/Desktop/WileyEdgeCNet/ABeginning/ABeginning/bin/Debug/net7.0/ABeginning.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/ABeginning/ABeginning/obj/Debug/net7.0/ABeginning.csproj.AssemblyReference.cache
+/Users/Idata/Desktop/WileyEdgeCNet/ABeginning/ABeginning/obj/Debug/net7.0/ABeginning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Idata/Desktop/WileyEdgeCNet/ABeginning/ABeginning/obj/Debug/net7.0/ABeginning.AssemblyInfoInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/ABeginning/ABeginning/obj/Debug/net7.0/ABeginning.AssemblyInfo.cs
+/Users/Idata/Desktop/WileyEdgeCNet/ABeginning/ABeginning/obj/Debug/net7.0/ABeginning.csproj.CoreCompileInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/ABeginning/ABeginning/obj/Debug/net7.0/ABeginning.dll
+/Users/Idata/Desktop/WileyEdgeCNet/ABeginning/ABeginning/obj/Debug/net7.0/refint/ABeginning.dll
+/Users/Idata/Desktop/WileyEdgeCNet/ABeginning/ABeginning/obj/Debug/net7.0/ABeginning.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/ABeginning/ABeginning/obj/Debug/net7.0/ABeginning.genruntimeconfig.cache
+/Users/Idata/Desktop/WileyEdgeCNet/ABeginning/ABeginning/obj/Debug/net7.0/ref/ABeginning.dll

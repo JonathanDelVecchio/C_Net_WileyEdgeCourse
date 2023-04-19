@@ -1,0 +1,15 @@
+/Users/Idata/Desktop/WileyEdgeCNet/CommentingCode/CommentingCode/bin/Debug/net7.0/CommentingCode
+/Users/Idata/Desktop/WileyEdgeCNet/CommentingCode/CommentingCode/bin/Debug/net7.0/CommentingCode.deps.json
+/Users/Idata/Desktop/WileyEdgeCNet/CommentingCode/CommentingCode/bin/Debug/net7.0/CommentingCode.runtimeconfig.json
+/Users/Idata/Desktop/WileyEdgeCNet/CommentingCode/CommentingCode/bin/Debug/net7.0/CommentingCode.dll
+/Users/Idata/Desktop/WileyEdgeCNet/CommentingCode/CommentingCode/bin/Debug/net7.0/CommentingCode.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/CommentingCode/CommentingCode/obj/Debug/net7.0/CommentingCode.csproj.AssemblyReference.cache
+/Users/Idata/Desktop/WileyEdgeCNet/CommentingCode/CommentingCode/obj/Debug/net7.0/CommentingCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Idata/Desktop/WileyEdgeCNet/CommentingCode/CommentingCode/obj/Debug/net7.0/CommentingCode.AssemblyInfoInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/CommentingCode/CommentingCode/obj/Debug/net7.0/CommentingCode.AssemblyInfo.cs
+/Users/Idata/Desktop/WileyEdgeCNet/CommentingCode/CommentingCode/obj/Debug/net7.0/CommentingCode.csproj.CoreCompileInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/CommentingCode/CommentingCode/obj/Debug/net7.0/CommentingCode.dll
+/Users/Idata/Desktop/WileyEdgeCNet/CommentingCode/CommentingCode/obj/Debug/net7.0/refint/CommentingCode.dll
+/Users/Idata/Desktop/WileyEdgeCNet/CommentingCode/CommentingCode/obj/Debug/net7.0/CommentingCode.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/CommentingCode/CommentingCode/obj/Debug/net7.0/CommentingCode.genruntimeconfig.cache
+/Users/Idata/Desktop/WileyEdgeCNet/CommentingCode/CommentingCode/obj/Debug/net7.0/ref/CommentingCode.dll

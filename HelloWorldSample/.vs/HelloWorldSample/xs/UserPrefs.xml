@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{FEF35D56-7D08-40DA-A8B2-24D65BF640AF}|Default">
-  <MonoDevelop.Ide.ItemProperties.HelloWorldSample FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HelloWorldSample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldSample/Program.cs">
+    <Files>
+      <File FileName="HelloWorldSample/Program.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloWorldSample" expanded="True">
+            <Node name="HelloWorldSample" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Idata/Desktop/WileyEdgeCNet/HelloWorldSample/HelloWorldSample/Program.cs" relfile="HelloWorldSample/Program.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
