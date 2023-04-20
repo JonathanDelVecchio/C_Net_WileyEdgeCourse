@@ -1,0 +1,15 @@
+/Users/Idata/Desktop/WileyEdgeCNet/Factorizer/Factorizer/bin/Debug/net7.0/Factorizer
+/Users/Idata/Desktop/WileyEdgeCNet/Factorizer/Factorizer/bin/Debug/net7.0/Factorizer.deps.json
+/Users/Idata/Desktop/WileyEdgeCNet/Factorizer/Factorizer/bin/Debug/net7.0/Factorizer.runtimeconfig.json
+/Users/Idata/Desktop/WileyEdgeCNet/Factorizer/Factorizer/bin/Debug/net7.0/Factorizer.dll
+/Users/Idata/Desktop/WileyEdgeCNet/Factorizer/Factorizer/bin/Debug/net7.0/Factorizer.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/Factorizer/Factorizer/obj/Debug/net7.0/Factorizer.csproj.AssemblyReference.cache
+/Users/Idata/Desktop/WileyEdgeCNet/Factorizer/Factorizer/obj/Debug/net7.0/Factorizer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Idata/Desktop/WileyEdgeCNet/Factorizer/Factorizer/obj/Debug/net7.0/Factorizer.AssemblyInfoInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/Factorizer/Factorizer/obj/Debug/net7.0/Factorizer.AssemblyInfo.cs
+/Users/Idata/Desktop/WileyEdgeCNet/Factorizer/Factorizer/obj/Debug/net7.0/Factorizer.csproj.CoreCompileInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/Factorizer/Factorizer/obj/Debug/net7.0/Factorizer.dll
+/Users/Idata/Desktop/WileyEdgeCNet/Factorizer/Factorizer/obj/Debug/net7.0/refint/Factorizer.dll
+/Users/Idata/Desktop/WileyEdgeCNet/Factorizer/Factorizer/obj/Debug/net7.0/Factorizer.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/Factorizer/Factorizer/obj/Debug/net7.0/Factorizer.genruntimeconfig.cache
+/Users/Idata/Desktop/WileyEdgeCNet/Factorizer/Factorizer/obj/Debug/net7.0/ref/Factorizer.dll
