@@ -1,0 +1,15 @@
+/Users/Idata/Desktop/WileyEdgeCNet/FizzBuzz/FizzBuzz/bin/Debug/net7.0/FizzBuzz
+/Users/Idata/Desktop/WileyEdgeCNet/FizzBuzz/FizzBuzz/bin/Debug/net7.0/FizzBuzz.deps.json
+/Users/Idata/Desktop/WileyEdgeCNet/FizzBuzz/FizzBuzz/bin/Debug/net7.0/FizzBuzz.runtimeconfig.json
+/Users/Idata/Desktop/WileyEdgeCNet/FizzBuzz/FizzBuzz/bin/Debug/net7.0/FizzBuzz.dll
+/Users/Idata/Desktop/WileyEdgeCNet/FizzBuzz/FizzBuzz/bin/Debug/net7.0/FizzBuzz.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.csproj.AssemblyReference.cache
+/Users/Idata/Desktop/WileyEdgeCNet/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Idata/Desktop/WileyEdgeCNet/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.AssemblyInfo.cs
+/Users/Idata/Desktop/WileyEdgeCNet/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.dll
+/Users/Idata/Desktop/WileyEdgeCNet/FizzBuzz/FizzBuzz/obj/Debug/net7.0/refint/FizzBuzz.dll
+/Users/Idata/Desktop/WileyEdgeCNet/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.genruntimeconfig.cache
+/Users/Idata/Desktop/WileyEdgeCNet/FizzBuzz/FizzBuzz/obj/Debug/net7.0/ref/FizzBuzz.dll

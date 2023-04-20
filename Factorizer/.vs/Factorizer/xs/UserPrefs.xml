@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{D0B2E375-414A-48FA-AAF4-C9800BDD5B50}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Factorizer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Factorizer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Factorizer/Program.cs">
+    <Files>
+      <File FileName="Factorizer/Program.cs" Line="46" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Factorizer" expanded="True">
+            <Node name="Factorizer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
