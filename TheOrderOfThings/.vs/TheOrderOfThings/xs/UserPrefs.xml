@@ -1,16 +1,16 @@
-﻿<Properties StartupConfiguration="{EADB8738-A3E8-48CE-97F8-511DDB3B4258}|Default">
+﻿<Properties StartupConfiguration="{A254F2CA-32D8-43AB-9C60-AF40454029C8}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TheOrderOfThings PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.InABucket PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InABucket/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheOrderOfThings/Program.cs">
     <Files>
-      <File FileName="InABucket/Program.cs" Line="25" Column="2" />
+      <File FileName="TheOrderOfThings/Program.cs" Line="30" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="InABucket " expanded="True">
-            <Node name="InABucket" expanded="True">
+          <Node name="TheOrderOfThings" expanded="True">
+            <Node name="TheOrderOfThings" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

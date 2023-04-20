@@ -1,0 +1,15 @@
+/Users/Idata/Desktop/WileyEdgeCNet/MoreBucketsMoreFun/MoreBucketsMoreFun/bin/Debug/net7.0/MoreBucketsMoreFun
+/Users/Idata/Desktop/WileyEdgeCNet/MoreBucketsMoreFun/MoreBucketsMoreFun/bin/Debug/net7.0/MoreBucketsMoreFun.deps.json
+/Users/Idata/Desktop/WileyEdgeCNet/MoreBucketsMoreFun/MoreBucketsMoreFun/bin/Debug/net7.0/MoreBucketsMoreFun.runtimeconfig.json
+/Users/Idata/Desktop/WileyEdgeCNet/MoreBucketsMoreFun/MoreBucketsMoreFun/bin/Debug/net7.0/MoreBucketsMoreFun.dll
+/Users/Idata/Desktop/WileyEdgeCNet/MoreBucketsMoreFun/MoreBucketsMoreFun/bin/Debug/net7.0/MoreBucketsMoreFun.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/MoreBucketsMoreFun/MoreBucketsMoreFun/obj/Debug/net7.0/MoreBucketsMoreFun.csproj.AssemblyReference.cache
+/Users/Idata/Desktop/WileyEdgeCNet/MoreBucketsMoreFun/MoreBucketsMoreFun/obj/Debug/net7.0/MoreBucketsMoreFun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Idata/Desktop/WileyEdgeCNet/MoreBucketsMoreFun/MoreBucketsMoreFun/obj/Debug/net7.0/MoreBucketsMoreFun.AssemblyInfoInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/MoreBucketsMoreFun/MoreBucketsMoreFun/obj/Debug/net7.0/MoreBucketsMoreFun.AssemblyInfo.cs
+/Users/Idata/Desktop/WileyEdgeCNet/MoreBucketsMoreFun/MoreBucketsMoreFun/obj/Debug/net7.0/MoreBucketsMoreFun.csproj.CoreCompileInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/MoreBucketsMoreFun/MoreBucketsMoreFun/obj/Debug/net7.0/MoreBucketsMoreFun.dll
+/Users/Idata/Desktop/WileyEdgeCNet/MoreBucketsMoreFun/MoreBucketsMoreFun/obj/Debug/net7.0/refint/MoreBucketsMoreFun.dll
+/Users/Idata/Desktop/WileyEdgeCNet/MoreBucketsMoreFun/MoreBucketsMoreFun/obj/Debug/net7.0/MoreBucketsMoreFun.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/MoreBucketsMoreFun/MoreBucketsMoreFun/obj/Debug/net7.0/MoreBucketsMoreFun.genruntimeconfig.cache
+/Users/Idata/Desktop/WileyEdgeCNet/MoreBucketsMoreFun/MoreBucketsMoreFun/obj/Debug/net7.0/ref/MoreBucketsMoreFun.dll

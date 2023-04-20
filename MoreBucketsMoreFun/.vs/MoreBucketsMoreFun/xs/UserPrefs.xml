@@ -1,16 +1,15 @@
-﻿<Properties StartupConfiguration="{EADB8738-A3E8-48CE-97F8-511DDB3B4258}|Default">
+﻿<Properties StartupConfiguration="{26EB00F6-8DF6-4268-A882-D53ED685BCE1}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.InABucket PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InABucket/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MoreBucketsMoreFun/Program.cs">
     <Files>
-      <File FileName="InABucket/Program.cs" Line="25" Column="2" />
+      <File FileName="MoreBucketsMoreFun/Program.cs" Line="28" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="InABucket " expanded="True">
-            <Node name="InABucket" expanded="True">
+          <Node name="MoreBucketsMoreFun" expanded="True">
+            <Node name="MoreBucketsMoreFun" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -22,4 +21,5 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MoreBucketsMoreFun PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

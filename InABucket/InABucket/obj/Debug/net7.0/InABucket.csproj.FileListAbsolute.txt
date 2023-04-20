@@ -1,0 +1,15 @@
+/Users/Idata/Desktop/WileyEdgeCNet/InABucket/InABucket/bin/Debug/net7.0/InABucket
+/Users/Idata/Desktop/WileyEdgeCNet/InABucket/InABucket/bin/Debug/net7.0/InABucket.deps.json
+/Users/Idata/Desktop/WileyEdgeCNet/InABucket/InABucket/bin/Debug/net7.0/InABucket.runtimeconfig.json
+/Users/Idata/Desktop/WileyEdgeCNet/InABucket/InABucket/bin/Debug/net7.0/InABucket.dll
+/Users/Idata/Desktop/WileyEdgeCNet/InABucket/InABucket/bin/Debug/net7.0/InABucket.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/InABucket/InABucket/obj/Debug/net7.0/InABucket.csproj.AssemblyReference.cache
+/Users/Idata/Desktop/WileyEdgeCNet/InABucket/InABucket/obj/Debug/net7.0/InABucket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Idata/Desktop/WileyEdgeCNet/InABucket/InABucket/obj/Debug/net7.0/InABucket.AssemblyInfoInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/InABucket/InABucket/obj/Debug/net7.0/InABucket.AssemblyInfo.cs
+/Users/Idata/Desktop/WileyEdgeCNet/InABucket/InABucket/obj/Debug/net7.0/InABucket.csproj.CoreCompileInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/InABucket/InABucket/obj/Debug/net7.0/InABucket.dll
+/Users/Idata/Desktop/WileyEdgeCNet/InABucket/InABucket/obj/Debug/net7.0/refint/InABucket.dll
+/Users/Idata/Desktop/WileyEdgeCNet/InABucket/InABucket/obj/Debug/net7.0/InABucket.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/InABucket/InABucket/obj/Debug/net7.0/InABucket.genruntimeconfig.cache
+/Users/Idata/Desktop/WileyEdgeCNet/InABucket/InABucket/obj/Debug/net7.0/ref/InABucket.dll

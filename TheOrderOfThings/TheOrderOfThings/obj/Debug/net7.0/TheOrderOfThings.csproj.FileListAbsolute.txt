@@ -1,0 +1,15 @@
+/Users/Idata/Desktop/WileyEdgeCNet/TheOrderOfThings/TheOrderOfThings/bin/Debug/net7.0/TheOrderOfThings
+/Users/Idata/Desktop/WileyEdgeCNet/TheOrderOfThings/TheOrderOfThings/bin/Debug/net7.0/TheOrderOfThings.deps.json
+/Users/Idata/Desktop/WileyEdgeCNet/TheOrderOfThings/TheOrderOfThings/bin/Debug/net7.0/TheOrderOfThings.runtimeconfig.json
+/Users/Idata/Desktop/WileyEdgeCNet/TheOrderOfThings/TheOrderOfThings/bin/Debug/net7.0/TheOrderOfThings.dll
+/Users/Idata/Desktop/WileyEdgeCNet/TheOrderOfThings/TheOrderOfThings/bin/Debug/net7.0/TheOrderOfThings.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/TheOrderOfThings/TheOrderOfThings/obj/Debug/net7.0/TheOrderOfThings.csproj.AssemblyReference.cache
+/Users/Idata/Desktop/WileyEdgeCNet/TheOrderOfThings/TheOrderOfThings/obj/Debug/net7.0/TheOrderOfThings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Idata/Desktop/WileyEdgeCNet/TheOrderOfThings/TheOrderOfThings/obj/Debug/net7.0/TheOrderOfThings.AssemblyInfoInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/TheOrderOfThings/TheOrderOfThings/obj/Debug/net7.0/TheOrderOfThings.AssemblyInfo.cs
+/Users/Idata/Desktop/WileyEdgeCNet/TheOrderOfThings/TheOrderOfThings/obj/Debug/net7.0/TheOrderOfThings.csproj.CoreCompileInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/TheOrderOfThings/TheOrderOfThings/obj/Debug/net7.0/TheOrderOfThings.dll
+/Users/Idata/Desktop/WileyEdgeCNet/TheOrderOfThings/TheOrderOfThings/obj/Debug/net7.0/refint/TheOrderOfThings.dll
+/Users/Idata/Desktop/WileyEdgeCNet/TheOrderOfThings/TheOrderOfThings/obj/Debug/net7.0/TheOrderOfThings.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/TheOrderOfThings/TheOrderOfThings/obj/Debug/net7.0/TheOrderOfThings.genruntimeconfig.cache
+/Users/Idata/Desktop/WileyEdgeCNet/TheOrderOfThings/TheOrderOfThings/obj/Debug/net7.0/ref/TheOrderOfThings.dll
