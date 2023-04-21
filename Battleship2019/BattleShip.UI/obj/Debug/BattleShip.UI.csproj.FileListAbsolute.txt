@@ -1,0 +1,7 @@
+/Users/Idata/Desktop/WileyEdgeCNet/Battleship2019/BattleShip.UI/bin/Debug/BattleShip.UI.exe.config
+/Users/Idata/Desktop/WileyEdgeCNet/Battleship2019/BattleShip.UI/bin/Debug/BattleShip.UI.exe
+/Users/Idata/Desktop/WileyEdgeCNet/Battleship2019/BattleShip.UI/bin/Debug/BattleShip.UI.pdb
+/Users/Idata/Desktop/WileyEdgeCNet/Battleship2019/BattleShip.UI/obj/Debug/BattleShip.UI.csproj.AssemblyReference.cache
+/Users/Idata/Desktop/WileyEdgeCNet/Battleship2019/BattleShip.UI/obj/Debug/BattleShip.UI.csproj.CoreCompileInputs.cache
+/Users/Idata/Desktop/WileyEdgeCNet/Battleship2019/BattleShip.UI/obj/Debug/BattleShip.UI.exe
+/Users/Idata/Desktop/WileyEdgeCNet/Battleship2019/BattleShip.UI/obj/Debug/BattleShip.UI.pdb

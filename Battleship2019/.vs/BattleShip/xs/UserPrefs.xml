@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{63998525-A24E-447F-B35F-76096BFB8D6B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BattleShip.BLL/GameLogic/Board.cs">
+    <Files>
+      <File FileName="BattleShip.UI/EmptyClass.cs" Line="5" Column="2" />
+      <File FileName="BattleShip.BLL/GameLogic/Board.cs" Line="193" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BattleShip" expanded="True">
+            <Node name="BattleShip.BLL" expanded="True">
+              <Node name="GameLogic" expanded="True">
+                <Node name="Board.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Requests" expanded="True" />
+              <Node name="Responses" expanded="True" />
+              <Node name="Ships" expanded="True" />
+            </Node>
+            <Node name="Battleship.Tests" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="BattleShip.UI" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BattleShip.UI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
