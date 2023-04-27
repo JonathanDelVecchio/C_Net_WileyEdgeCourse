@@ -1,0 +1,73 @@
+﻿
+
+
+body {
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.items-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.item {
+    width: calc(100% / 3 - 20px);
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+    text-align: center;
+    display: inline-block;
+}
+
+    .item:hover {
+        background-color: #e1e1e1;
+    }
+
+.item-name {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.item-info {
+    font-size: 1em;
+}
+
+.forms-container {
+    width: 300px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 5px;
+    font-size: 14px;
+}
+
+button {
+    padding: 5px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin-bottom: 20px;
+}

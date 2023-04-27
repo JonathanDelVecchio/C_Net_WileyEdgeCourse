@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../ContactListClient/home.html">
+    <Files>
+      <File FileName="RPG.Inventory/Items/Potions/HealthPotion.cs" Line="20" Column="1" />
+      <File FileName="RPG.Inventory/Items/Item.cs" Line="1" Column="1" />
+      <File FileName="RPG.Inventory/Items/Weapons/Sword.cs" Line="1" Column="1" />
+      <File FileName="../ContactListClient/home.html" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RPG.Inventory" expanded="True">
+            <Node name="RPG.Inventory" expanded="True">
+              <Node name="Items" expanded="True">
+                <Node name="Armor" expanded="True" />
+                <Node name="Containers" expanded="True">
+                  <Node name="WeightRestrictedContainer.cs" selected="True" />
+                </Node>
+                <Node name="Potions" expanded="True" />
+                <Node name="Weapons" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="RPG.Inventory.Tests" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

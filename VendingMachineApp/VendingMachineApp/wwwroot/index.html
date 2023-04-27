@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vending Machine</title>
+    <link rel="stylesheet" href="css/home.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/home.js"></script>
+</head>
+<body>
+    <h1>Vending Machine</h1>
+    <hr>
+    <div class="container">
+        <div class="items-container">
+        </div>
+        <div class="forms-container">
+            <form>
+                <label for="total-money">Total $ In</label>
+                <input type="text" id="total-money" readonly>
+                <button type="button" id="add-dollar">Add Dollar</button>
+                <button type="button" id="add-quarter">Add Quarter</button>
+                <button type="button" id="add-dime">Add Dime</button>
+                <button type="button" id="add-nickel">Add Nickel</button>
+            </form>
+            <hr>
+            <form>
+                <label for="messages">Messages</label>
+                <input type="text" id="messages" readonly>
+                <label for="selected-item">Item:</label>
+                <input type="text" id="selected-item" readonly>
+                <button type="button" id="make-purchase">Make Purchase</button>
+            </form>
+            <hr>
+            <form>
+                <label for="change">Change</label>
+                <input type="text" id="change" readonly>
+                <button type="button" id="change-return">Change Return</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "rbVTEjCp9L2tIrrUalxG0Q4Z3tilTtQxF05bfbTKQbc=",
+  "Source": "VendingMachineApp",
+  "BasePath": "_content/VendingMachineApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VendingMachineApp/wwwroot",
+      "Source": "VendingMachineApp",
+      "ContentRoot": "/Users/Idata/Desktop/WileyEdgeCNet/VendingMachineApp/VendingMachineApp/wwwroot/",
+      "BasePath": "_content/VendingMachineApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/Idata/Desktop/WileyEdgeCNet/VendingMachineApp/VendingMachineApp/wwwroot/css/home.css",
+      "SourceId": "VendingMachineApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Idata/Desktop/WileyEdgeCNet/VendingMachineApp/VendingMachineApp/wwwroot/",
+      "BasePath": "_content/VendingMachineApp",
+      "RelativePath": "css/home.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/home.css"
+    },
+    {
+      "Identity": "/Users/Idata/Desktop/WileyEdgeCNet/VendingMachineApp/VendingMachineApp/wwwroot/index.html",
+      "SourceId": "VendingMachineApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Idata/Desktop/WileyEdgeCNet/VendingMachineApp/VendingMachineApp/wwwroot/",
+      "BasePath": "_content/VendingMachineApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/Idata/Desktop/WileyEdgeCNet/VendingMachineApp/VendingMachineApp/wwwroot/js/home.js",
+      "SourceId": "VendingMachineApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Idata/Desktop/WileyEdgeCNet/VendingMachineApp/VendingMachineApp/wwwroot/",
+      "BasePath": "_content/VendingMachineApp",
+      "RelativePath": "js/home.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/home.js"
+    }
+  ]
+}

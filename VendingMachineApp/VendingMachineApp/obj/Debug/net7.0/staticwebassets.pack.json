@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/Idata/Desktop/WileyEdgeCNet/VendingMachineApp/VendingMachineApp/wwwroot/css/home.css",
+      "PackagePath": "staticwebassets/css/home.css"
+    },
+    {
+      "Id": "/Users/Idata/Desktop/WileyEdgeCNet/VendingMachineApp/VendingMachineApp/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/Idata/Desktop/WileyEdgeCNet/VendingMachineApp/VendingMachineApp/wwwroot/js/home.js",
+      "PackagePath": "staticwebassets/js/home.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.VendingMachineApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.VendingMachineApp.props",
+      "PackagePath": "build\\VendingMachineApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.VendingMachineApp.props",
+      "PackagePath": "buildMultiTargeting\\VendingMachineApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.VendingMachineApp.props",
+      "PackagePath": "buildTransitive\\VendingMachineApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
